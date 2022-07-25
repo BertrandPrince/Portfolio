@@ -1,3 +1,3 @@
 # Portfolio
 this is my portfolio project
- View My Portfolio Here : https://princeportfolio2.herokuapp.com/
+ View My Portfolio Here : https://portfolio-prince-new.herokuapp.com/
